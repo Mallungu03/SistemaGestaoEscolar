@@ -7,6 +7,11 @@ using SistemaGestaoEscolar.Enums;
 
 namespace SistemaGestaoEscolar.Services
 {
+    <Summary>
+    Classe central que gerencia as operações do sistema de gestão escolar, incluindo cadastro, atribuições pedagógicas, matrículas, lançamento de notas e geração de relatórios.
+    Demonstra o uso de coleções, LINQ, tratamento de exceções e organização de código em regiões.
+    </ Summary>
+    
     public class GestorEscolar
     {
         private readonly List<Aluno> _alunos = new List<Aluno>();
