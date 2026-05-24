@@ -1,0 +1,14 @@
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/bin/Debug/net10.0/SistemaGestaoEscolar
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/bin/Debug/net10.0/SistemaGestaoEscolar.deps.json
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/bin/Debug/net10.0/SistemaGestaoEscolar.runtimeconfig.json
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/bin/Debug/net10.0/SistemaGestaoEscolar.dll
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/bin/Debug/net10.0/SistemaGestaoEscolar.pdb
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.AssemblyInfoInputs.cache
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.AssemblyInfo.cs
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.csproj.CoreCompileInputs.cache
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.dll
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/refint/SistemaGestaoEscolar.dll
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.pdb
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/SistemaGestaoEscolar.genruntimeconfig.cache
+/home/americo/Malungo/projetos/SistemaGestaoEscolar/obj/Debug/net10.0/ref/SistemaGestaoEscolar.dll
